@@ -6,7 +6,7 @@ I'm a third-year Data Science student at the Polyechnic University if Valencia. 
 - Currently i'm learning about artificial neural networks. This is esential for future projects that want to carry out.
 - Dog identifier to learn about computer vision and have practical experience with deep learing.
   
-# Future Projects:
+## Future Projects:
 - Algorithmic trading model: I am intrested in joining my statistical and financial knowledge in one project and I found algoritmic trading to be a good example of this.
 - Geolocalizer: Possibly training a model on images of cities/roads/countryside to know what country what country the image is from. The scope of the project could be expanded to locate the city/province inside the country aswell.
 
