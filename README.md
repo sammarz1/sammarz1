@@ -1,10 +1,9 @@
 # About Me:
-I'm a third-year Data Science student at the Polyechnic University if Valencia. I enjoy the process of transforming raw data into something tangible and understandable for everyone. I believe that Data Science is practice that can be applied in nealy every sector in one way or another, from finance and business to logistics and even politics. My academic journey has given me a solid foundation in machine learning, data analytics, and statistical modeling, and I’m constantly exploring and trying new technologies and projects to learn more about this robust sector.
+I'm a third-year Data Science student at the Polyechnic University of Valencia. I enjoy the process of transforming raw data into something tangible and understandable for everyone. I believe that Data Science is a practice that can be applied in nearly every sector in one way or another, from finance and business to logistics and even politics. My academic journey has given me a solid foundation in machine learning, data analytics, and statistical modeling, and I’m constantly exploring and trying new technologies and projects to learn more about this robust sector.
 
 ## Current Projects and Learnings
-- I recently finished learing about desision trees and random forrest.
-- Currently i'm learning about artificial neural networks. This is esential for future projects that want to carry out.
-- Dog identifier to learn about computer vision and have practical experience with deep learing.
+- Classifying the country of origin of a text.
+- Classifying text as sexist or not. 
   
 ## Future Projects:
 - Algorithmic trading model: I am intrested in joining my statistical and financial knowledge in one project and I found algoritmic trading to be a good example of this.
